@@ -20,7 +20,7 @@ public class ButtonStartRestart : MonoBehaviour
         start.gameObject.SetActive(true);
         //Não aparecendo o botão Restart
         restart.gameObject.SetActive(false);
-	}
+    }
 	
 	//Iniciando o jogo
     //SetActive-> verifica se o objeto está ativo ou não na cena
